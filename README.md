@@ -7,7 +7,8 @@ It offers a sleek layout and customizable sections for:
 - personal information,
 - education,
 - work experience,
-- skills. 
+- hard skills/ sofr skills,
+- projects 
 
 The design is modern and easy to edit. 
 

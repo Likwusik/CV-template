@@ -1,0 +1,139 @@
+body {
+    font-family: "Montserrat", sans-serif;
+    background: #fff38b;
+}
+.wrapper {
+    display: flex;
+    width: 1200px;
+    background: #fefee4;
+    justify-content: center;
+    margin: 0 auto;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+#name {
+    color: #ff0101;
+    font-size: 45px;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+aside {
+    width: 370px;
+    background: #cf4e2e;
+}
+
+main {
+    padding-left: 88px;
+    padding-top: 102px;
+    padding-bottom: 102px;
+    padding-right: 88px;
+}
+#pikachusik {
+    margin-top: 40px;
+}
+.aside_description {
+    margin: 40px 0px 0px 40px;
+    color: white;
+}
+.links {
+    color: white;
+    font-size: 14px;
+    line-height: 24px;
+}
+.bold {
+    font-weight: 700;
+}
+.list-secondary {
+    color: rgb(255, 255, 156);
+    font-size: 14px;
+    line-height: 24px;
+    padding-left: 0px;
+    list-style-position: inside;
+}
+.list-secondary-item {
+    color: white;
+}
+.alternitive-head-color {
+    color: #cf4e2e;
+}
+.tech-skills-block {
+    margin-top: 47px;
+}
+.soft-skills-block {
+    margin-top: 44px;
+}
+.main-description {
+    width: 400px;
+}
+.job-title {
+    font-size: 14px;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+.description {
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-bottom: 40px;
+}
+.projects {
+    width: 485px;
+    margin-bottom: 51px;
+}
+.list-primary {
+    color: black;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    padding-left: 0%;
+    list-style-position: inside;
+}
+.list-projects {
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    text-decoration: underline;
+    line-height: 24px;
+    text-decoration: none;
+}
+.header-primary {
+    color: black;
+    font-size: 22px;
+    font-family: Montserrat;
+    font-weight: 700;
+    margin-bottom: 12px;
+}
+.job-position {
+    color: black;
+    font-size: 16px;
+    font-weight: 700;
+    margin-bottom: 0px;
+}
+.under-job-position {
+    color: #a8a8a8;
+    font-size: 12px;
+    font-weight: 400;
+    word-wrap: break-word;
+    margin-bottom: 0px;
+    margin-top: 11px;
+}
+.header-primary-2 {
+    color: black;
+    font-size: 22px;
+    font-family: Montserrat;
+    font-weight: 700;
+    margin-bottom: 8px;
+    margin-top: 40px;
+}
+.one {
+    color: black;
+}
+.dut-list {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    word-wrap: break-word;
+    padding-left: 0%;
+    list-style-position: inside;
+    margin-top: 8px;
+}
